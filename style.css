@@ -1,0 +1,18 @@
+@media screen and (width < 480px) {
+    body{
+      background-color: #AF0171;
+      }
+  }
+  
+  @media screen and (width >= 480px) and (width < 1024px) {
+      body {
+          background-color:#790252;
+      }
+  }
+  
+
+  @media screen and (width >= 1024px) {
+    body {
+      background-color: #4C0033;
+    }
+  }
